@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Shahd Emad
 
-<!--
-**shahdcode/shahdcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+As a junior computer science student at MIU, I am passionate about AI and computer vision. I eagerly anticipate future opportunities and experiences, excited to delve into the vast landscape of computer science and hone my skills.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔭 About Me
+- Major: Computer science miniroing in Artifical Intelligence
+- Won second best project for Firoza jewlery wesbite []
+
+# Projects
+## Image processing and Computer vision
+## Web Development
+## Data Structures and Object oriented programming
