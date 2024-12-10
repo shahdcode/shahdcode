@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - Driver Drowsiness Detection (in progress)
   
 ## Web Development
-- SmarNoting website (in progress)
+- SmarNotes website (in progress)
 - Firoza Jewelry wesbite
 ## Data Structures and Object oriented programming
 - Tic tac toe , c++ program that uses min-max algorithm and is optimized using alpha-beta pruning
